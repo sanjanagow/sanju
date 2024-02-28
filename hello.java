@@ -3,8 +3,8 @@ public class hello{
 	{
 		system.out.println("hello");
 		system.out.println("world");
-		system.out.println("tumkur");
-		system.out.println("spt");
+		system.out.println("spt);
+		
 	}
 }
 
