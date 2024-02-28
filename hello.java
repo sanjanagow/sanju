@@ -3,7 +3,7 @@ public class hello{
 	{
 		system.out.println("hello world");
 		system.out.println("world");
-		system.out.println("spt);
+		system.out.println("banglore);
 		
 	}
 }
